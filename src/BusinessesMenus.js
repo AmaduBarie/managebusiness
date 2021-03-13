@@ -32,7 +32,7 @@ export default function FolderList() {
           </Avatar>
         </ListItemAvatar>
          <Link to="/provision">   
-        <ListItemText primary="Provision Store" secondary="last update: 1 jan 2020" />
+        <ListItemText primary="Provision Store" secondary="last update: 1 jan 2021" />
       </Link>
       </ListItem>
       <Divider/>
@@ -42,7 +42,7 @@ export default function FolderList() {
             <WorkIcon />
           </Avatar>
         </ListItemAvatar>
-        <ListItemText primary="Restaurant" secondary="Jan 7, 2014" />
+        <ListItemText primary="Restaurant" secondary="on progress" />
       </ListItem>
       <Divider/>
       <ListItem button>
@@ -51,7 +51,7 @@ export default function FolderList() {
             <BeachAccessIcon />
           </Avatar>
         </ListItemAvatar>
-        <ListItemText primary="Cosmetics" secondary="July 20, 2014" />
+        <ListItemText primary="Cosmetics" secondary="on progress" />
       </ListItem>
     </List>
   );
